@@ -1,0 +1,3 @@
+[submodule "poppler-cpp-doc"]
+	path = poppler-cpp-doc
+	url = https://github.com/MarPiRK/poppler-cpp-doc.git
